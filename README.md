@@ -9,7 +9,7 @@
 
 ## Hey Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Senior Undergraduate and the Institute System Administrator at IIT Bombay. I love to explore different domains of computer science & have a keen interest in Deep Learning & Blockchain Technologies.
+I'm a Data & Applied Scientist at Microsoft, working with the Bing Autosuggest team. I completed my B.Tech from IIT Bombay (2021). I love to explore different domains of computer science & have a keen interest in NLP, Deep Learning & Blockchain Technologies.
 
 I Paint 🎨. I Sing 🎤. I Code 💻. I like to learn new stuff & am always up for challenges! Being an enthusiatic programmer, I am always ready to discuss interesting ideas & projects.
 
